@@ -24,7 +24,7 @@ function BookList() {
 	<div class="book">
 		<div class="book-cover">
 			<div>
-				<h1>Mr. Jegan</h1>
+				<h1>BOOK BASH</h1>
 				<div class="separator"></div>
 				<h2>by Whitewholf</h2>
 			</div>
